@@ -24,9 +24,11 @@ Css3, Java, Selenium, ActiveMQ, MongoDB, PostgreSql, Postman and SpringBoot.
 
 - Today I'm a Software Developer with a focus on Java, work too TOPAZ, PLSQL and Postman.
 
-- In a few words, this is me, I'm a woman who likes to code in Java, and travel.
+</br>
 
-- I live in Brazil and one of my dreams is to work in another Country to have the possibility to know other cultures!
+**In a few words, this is me, I'm a woman who likes to code in Java, and travel.**
+
+**I live in Brazil and one of my dreams is to work in another Country to have the possibility to know other cultures!**
 
 </br> </br>
 
