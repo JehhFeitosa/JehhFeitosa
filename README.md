@@ -1,8 +1,14 @@
-### Hello, I'm Jéssica Feitosa or just Jehh, I'm a Software Developer from Brazil!
+# Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
+
+### Welcome to my page!
+
+### I'm Jéssica Feitosa or just Jehh, I'm a Software Developer from<img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /><b>Brazil</b>.
+
+<br/>
 
 **Who am I**
 
-- 👀 I’m interested in JAVA, GO, PLSQl, MongoDB, Mysql, SQL Server and your framework's.
+-👀 I’m interested in JAVA, GO, PLSQl, MongoDB, Mysql, SQL Server and your framework's.
 
 
 **I work with**
@@ -12,21 +18,33 @@ Today I'm a Software Developer with a focus on Java, study Microsservices, Sprin
 In a few words, this is me, I'm a woman who likes to code in Java, and travel.
 I live in Brazil and one of my dreams is to work in another Country to have the possibility to know other cultures!
 
-*"If one day you are asked why you evolve quickly, say: My fears don't stop my dreams"*(quote : Ana Beatriz Neri)
-
 ### Technology Stack 👱‍♀️💻
 
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+**Application and Data**
 
-<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<code><img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></code>
+<code><img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" /></code>
+<code><img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
+<code><img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code>
+<code><img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
-<img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+**Utilities**
 
-<br />
-<br />
+<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
 
+**DevOps**
+
+<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+
+**Business Tools**
+
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
+
+<br/>
 
 ### Recent Acitivies ✨
 <center>
@@ -37,3 +55,12 @@ I live in Brazil and one of my dreams is to work in another Country to have the 
   </tr>  
 </table>
 </center>
+
+
+
+
+
+
+
+
+
