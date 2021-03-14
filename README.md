@@ -9,6 +9,12 @@
 <br/> 
 
 **Who am I**
+- Software developer, passionate about technology and an astrology enthusiast.
+I discovered the world of technology recently,
+while working as an accountant at a Brazilian retail giant.
+Since then, I have been studying and getting involved more and more, in this universe
+spectacular lineup. I have already developed academic projects with PHP, Html5,
+Css3, Java, Selenium, ActiveMQ, MongoDB, PostgreSql, Postman and SpringBoot.
 
 -👀 I’m interested in PLSQL, MongoDB, Mysql, SQLServer, JAVA, GO and your framework's.
 
