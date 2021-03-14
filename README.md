@@ -13,8 +13,8 @@
 I discovered the world of technology recently,
 while working as an accountant at a Brazilian retail giant.
 Since then, I have been studying and getting involved more and more, in this universe
-spectacular lineup. I have already developed academic projects with PHP, Html5,
-Css3, Java, Selenium, ActiveMQ, MongoDB, PostgreSql, Postman and SpringBoot.
+spectacular lineup. I have already developed academic projects with Java 8, Selenium, ActiveMQ, MongoDB, PostgreSql, Postman, SpringBoot, PHP, HTML5 and
+CSS3, .
 
 - 👀 I’m study SQL, JAVA, GO and your framework's.
 
@@ -22,7 +22,7 @@ Css3, Java, Selenium, ActiveMQ, MongoDB, PostgreSql, Postman and SpringBoot.
 
 **I work with**
 
-- Today I'm a Software Developer with a focus on Java, work too TOPAZ, PLSQL and Postman.
+- Today I'm a Software Developer with a focus on Java, work also with TOPAZ, PLSQL and Postman.
 
 </br>
 
