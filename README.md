@@ -8,7 +8,7 @@
 
 **Who am I**
 
--👀 I’m interested in JAVA, GO, PLSQl, MongoDB, Mysql, SQL Server and your framework's.
+-👀 I’m interested in PLSQL, MongoDB, Mysql, SQLServer, JAVA, GO and your framework's.
 
 
 **I work with**
