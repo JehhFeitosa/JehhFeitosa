@@ -48,7 +48,7 @@ I live in Brazil and one of my dreams is to work in another Country to have the 
 
 ### Where to find me:
 
-<a href="https://www.linkedin.com/in/jessica-feitosa/">
+<a href="https://www.linkedin.com/in/j%C3%A9ssica-feitosa-715a8a113/">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
 </a>
 
