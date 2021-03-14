@@ -1,15 +1,18 @@
 # Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
+
 ### Welcome to my page!
 
-### I'm Jéssica Feitosa or just Jehh, I'm a Software Developer from<img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /><b>Brazil</b>.
 
-<br/>
+### I'm Jéssica Feitosa or just Jehh, I'm a Software Developer from<img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /><b>Brazil.
+
+<br/> 
 
 **Who am I**
 
 -👀 I’m interested in PLSQL, MongoDB, Mysql, SQLServer, JAVA, GO and your framework's.
 
+</br>
 
 **I work with**
 
@@ -17,6 +20,9 @@ Today I'm a Software Developer with a focus on Java, study Microsservices, Sprin
 
 In a few words, this is me, I'm a woman who likes to code in Java, and travel.
 I live in Brazil and one of my dreams is to work in another Country to have the possibility to know other cultures!
+
+</br> </br>
+
 
 ### Technology Stack 👱‍♀️💻
 
