@@ -87,7 +87,7 @@ CSS3, .
 <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehhfeitosa&layout=compact&langs_count=8&theme=radical" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=jehhfeitosa&theme=radical&show_icons=true" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=jehhfeitosa&theme=radical&show_icons=true" /></td>
   </tr>  
 </table>
 </center>
