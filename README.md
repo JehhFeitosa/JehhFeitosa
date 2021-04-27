@@ -22,7 +22,7 @@ CSS3, .
 
 **I work with**
 
-- Today I'm a Software Developer with a focus on Java, work also with TOPAZ, ElasticSearch, Kibana, Kafka, Postman and PLSQL.
+- Today I'm a Software Developer work also with TOPAZ/JAVA, ElasticSearch, Kibana, Kafka, Postman and PLSQL.
 
 </br>
 
