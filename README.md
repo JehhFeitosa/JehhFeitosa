@@ -82,6 +82,13 @@ CSS3, .
 
 <br/><br/>
 
+### Total de Visitas no perfil :detective: <br>
+ <a>
+  <code><img align="left" src="https://profile-counter.glitch.me/JehhFeitosa/count.svg" /></code>
+</a>
+
+<br/><br/>
+
 ### Recent Acitivies ✨
 <center>
 <table>
