@@ -16,7 +16,7 @@ Since then, I have been studying and getting involved more and more, in this uni
 spectacular lineup. I have already developed academic projects with Java 8, Selenium, ActiveMQ, MongoDB, PostgreSql, Postman, SpringBoot, PHP, HTML5 and
 CSS3, .
 
-- 👀 I’m study SQL, JAVA, GO and your framework's.
+- 👀 I’m study JAVA, GO and your framework's.
 
 
 </br>
