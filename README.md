@@ -4,72 +4,17 @@
 ### Welcome to my page!
 
 
-### I'm Jéssica Feitosa or just Jehh, I'm a Software Developer from<img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /><b>Brazil.
+### I'm Jéssica Feitosa or just Jehh, I'm a Software Developer from <b>Brazil.
 
 <br/> 
 
 **Who am I**
-- Software developer, passionate about technology and an astrology enthusiast.
-I discovered the world of technology recently,
-while working as an accountant at a Brazilian retail giant.
-Since then, I have been studying and getting involved more and more, in this universe
-spectacular lineup. I have already developed academic projects with Java 8, Selenium, ActiveMQ, MongoDB, PostgreSql, Postman, SpringBoot, PHP, HTML5 and
-CSS3, .
+- Java developer by passion.
 
 - 👀 I’m study JAVA, GO and your framework's.
 
 
-</br>
-
-**I work with**
-
-- Today I'm a Software Developer work also with TOPAZ/JAVA, ElasticSearch, Kibana, Kafka, JasperSoft(IReport), Postman and PLSQL.
-
-</br>
-
-**In a few words, this is me, I'm a woman who likes to code in Java, and travel.**
-
-**I live in Brazil and one of my dreams is to work in another Country to have the possibility to know other cultures!**
-
-</br> </br>
-
-
-### Technology Stack 👱‍♀️💻
-<br/>
-
-
-**Application and Data**
-
-<code><img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></code>
-<code><img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" /></code>
-<code><img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
-<code><img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code>
-<code><img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<br/>
-
-
-**Utilities**
-
-<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
-<br/>
-
-
-**DevOps**
-
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-<br/>
-
-
-**Business Tools**
-
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
-
-
-<br/>
+</br> 
 
 ### Where to find me:
 
