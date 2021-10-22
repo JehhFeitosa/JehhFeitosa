@@ -11,7 +11,7 @@
 **Who am I**
 - Java developer by passion.
 
-- 👀 I’m study JAVA, GO and your framework's.
+- 👀 I’m study JAVA and your framework's.
 
 
 </br> 
